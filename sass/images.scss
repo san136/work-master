@@ -1,0 +1,29 @@
+
+
+  .image-grid {
+    display: grid;
+    grid-template-columns:  repeat(auto-fit, minmax(20rem, 1fr));
+    // grid-template-columns:  repeat(auto-fill, minmax(20rem, 1fr));
+    // grid-template-columns: repeat(2,1fr);
+    grid-gap:1rem;
+    // border: 2px solid green;
+   
+  }
+
+  .image-grid img {
+   
+    max-width: 100%;
+    height: auto;
+    grid-gap:1rem;
+    // border: 2px solid blue;
+    //images mittig zeigen:
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+ .picture{
+   width: 500px;
+   height: auto;
+   border-radius: 1%;
+ }

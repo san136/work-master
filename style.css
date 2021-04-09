@@ -1,0 +1,9 @@
+/*!
+ Theme Name:   Child Theme
+ Description:  A child theme
+ Template:     shapely
+ Version:      1.0.0
+ Text Domain:  themeslug
+*/body{background-color:#fafafa;color:#343535;font-family:sans-serif}h1{font-size:3rem;font-family:"Raleway",sans-serif;font-weight:400;text-align:center;margin:0}header,main,footer{max-width:80rem;margin:auto;padding:.5rem}.picture__text{color:#000;margin:0;font-size:1.5rem;display:none}a:hover,a:focus{opacity:.6}.hoverable{position:relative}.hoverable>.hoverable__tooltip{display:none}.hoverable:hover>.hoverable__tooltip{position:absolute;top:-100rem;left:100rem;border:1px solid #000}.image-grid{display:grid;grid-template-columns:repeat(auto-fit, minmax(20rem, 1fr));grid-gap:1rem}.image-grid img{max-width:100%;height:auto;grid-gap:1rem;display:flex;justify-content:center;align-items:center}.picture{width:500px;height:auto;border-radius:1%}.filter{display:flex;flex-direction:row;justify-content:space-around;margin-bottom:1rem}.filter__suche input{height:1.5rem;width:7rem;border-radius:5px;font-family:"Raleway",sans-serif;font-weight:300;border:solid 1px #3a3f3f}.filter__kategorie{height:1.5rem;border-radius:5px;font-family:"Raleway",sans-serif;font-weight:300}
+
+/*# sourceMappingURL=style.css.map */
